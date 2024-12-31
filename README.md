@@ -642,6 +642,8 @@ Best Generated image
 Best Generated image
 
 **Output of the Task_3**
+![Task_3 Output](https://github.com/user-attachments/assets/7bb04213-9f8a-4ae4-9bf0-81f1d92341ca)
+
 
 
 
